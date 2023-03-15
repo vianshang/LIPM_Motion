@@ -1,2 +1,2 @@
-# LIPM_Motion
+# LIPM_Motion_To_Command
 Generate_LIPM_Motion
